@@ -1,0 +1,9 @@
+C:\Users\ДжабашевН.CORP\source\repos\AutoLevelpart2\AutoLevelpart2\bin\Debug\Database.mdf
+C:\Users\ДжабашевН.CORP\source\repos\AutoLevelpart2\AutoLevelpart2\bin\Debug\Database_log.ldf
+C:\Users\ДжабашевН.CORP\source\repos\AutoLevelpart2\AutoLevelpart2\bin\Debug\AutoLevelpart2.exe.config
+C:\Users\ДжабашевН.CORP\source\repos\AutoLevelpart2\AutoLevelpart2\bin\Debug\AutoLevelpart2.exe
+C:\Users\ДжабашевН.CORP\source\repos\AutoLevelpart2\AutoLevelpart2\bin\Debug\AutoLevelpart2.pdb
+C:\Users\ДжабашевН.CORP\source\repos\AutoLevelpart2\AutoLevelpart2\obj\Debug\AutoLevelpart2.csprojAssemblyReference.cache
+C:\Users\ДжабашевН.CORP\source\repos\AutoLevelpart2\AutoLevelpart2\obj\Debug\AutoLevelpart2.csproj.CoreCompileInputs.cache
+C:\Users\ДжабашевН.CORP\source\repos\AutoLevelpart2\AutoLevelpart2\obj\Debug\AutoLevelpart2.exe
+C:\Users\ДжабашевН.CORP\source\repos\AutoLevelpart2\AutoLevelpart2\obj\Debug\AutoLevelpart2.pdb
